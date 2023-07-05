@@ -1,0 +1,21 @@
+
+
+*{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+	background-color: #0A0433;
+}
+
+.sayfa{
+	width: 960px;
+	margin: 10px auto;
+    background-color: aqua;
+    text-align: center;
+}
+
+#icerik{
+	background-color: #295784;
+    height: auto;
+}
